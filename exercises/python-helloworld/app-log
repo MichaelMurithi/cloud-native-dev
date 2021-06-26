@@ -1,9 +1,0 @@
-INFO:werkzeug: * Running on http://localhost:5000/ (Press CTRL+C to quit)
-INFO:werkzeug:127.0.0.1 - - [26/Jun/2021 14:00:04] "GET /status HTTP/1.1" 404 -
-INFO:werkzeug:127.0.0.1 - - [26/Jun/2021 14:00:25] "GET /status HTTP/1.1" 404 -
-INFO:werkzeug:127.0.0.1 - - [26/Jun/2021 14:00:26] "GET /status HTTP/1.1" 404 -
-INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
-INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
-INFO:werkzeug:127.0.0.1 - - [26/Jun/2021 14:01:19] "GET /status HTTP/1.1" 404 -
-INFO:werkzeug:127.0.0.1 - - [26/Jun/2021 14:01:23] "GET /status/ HTTP/1.1" 404 -
-INFO:werkzeug:127.0.0.1 - - [26/Jun/2021 14:02:42] "GET /status/ HTTP/1.1" 404 -
